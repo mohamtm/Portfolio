@@ -1,2 +1,2 @@
 # Portfolio
-Prosjekter jeg har fullført
+Slange er et gui prosjekt i java som simulerer snake spillet.
